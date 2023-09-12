@@ -6,4 +6,5 @@
 
 <div>
 [![trophy](https://github-profile-trophy.vercel.app/?username=vinnikandcoffee13&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+<img height="180em" src= "https://github-profile-trophy.vercel.app/?username=vinnikandcoffee13&no-frame=true"/>
 </div>
